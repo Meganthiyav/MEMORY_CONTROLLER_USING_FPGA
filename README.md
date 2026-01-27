@@ -33,5 +33,5 @@ Target Platform: FPGA
 ]
 
 ## RTL code
-[[Memory_controller_8x8]
-(https://github.com/Meganthiyav/MEMORY_CONTROLLER_USING_FPGA/blob/965e7512be46b73d04ec612b9bac3d52c6efa5a7/Memory_controller_8x8/sources_1/new/memory_controller_8x8.v)]
+[[Memory_controller_8x8
+](https://github.com/Meganthiyav/MEMORY_CONTROLLER_USING_FPGA/blob/965e7512be46b73d04ec612b9bac3d52c6efa5a7/Memory_controller_8x8/sources_1/new/memory_controller_8x8.v)]
