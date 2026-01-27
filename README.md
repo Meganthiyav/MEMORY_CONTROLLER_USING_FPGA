@@ -31,3 +31,8 @@ Target Platform: FPGA
 [[IMAGES.md
 ](https://github.com/Meganthiyav/MEMORY_CONTROLLER_USING_FPGA/blob/6803fb84d13c420211944aa2914e4a86c92756fb/IMAGES.md)
 ](https://github.com/Meganthiyav/MEMORY_CONTROLLER_USING_FPGA/blob/8bacdbeaeed3046330b6bad3ea0972a19e035d24/mem_controller_8x8.png)
+
+## RTL code
+
+
+
