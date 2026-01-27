@@ -28,4 +28,5 @@ Target Platform: FPGA
 
 ## Block Diagram
 
-IMAGES.md
+[IMAGES.md
+](https://github.com/Meganthiyav/MEMORY_CONTROLLER_USING_FPGA/blob/6803fb84d13c420211944aa2914e4a86c92756fb/IMAGES.md)
