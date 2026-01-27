@@ -38,5 +38,5 @@ Target Platform: FPGA
 
 ## Testbench
 [.[Testbench
+](https://github.com/Meganthiyav/MEMORY_CONTROLLER_USING_FPGA/blob/690f212217fbdb6b1c1d167899fa6e16c9e67b9c/Memory_controller_8x8/sim_1/new/memory_contoller_tb.v)
 ]
-(https://github.com/Meganthiyav/MEMORY_CONTROLLER_USING_FPGA/blob/690f212217fbdb6b1c1d167899fa6e16c9e67b9c/Memory_controller_8x8/sim_1/new/memory_contoller_tb.v)]
