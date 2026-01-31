@@ -29,7 +29,7 @@ Target Platform: FPGA
 ## Block Diagram
 
 [[Block Diagram
-](https://github.com/Meganthiyav/MEMORY_CONTROLLER_USING_FPGA/blob/8bacdbeaeed3046330b6bad3ea0972a19e035d24/mem_controller_8x8.png)
+}(https://github.com/Meganthiyav/MEMORY_CONTROLLER_USING_FPGA/blob/1d7333eb81c3d7d804ade4af5dcbb603fe5eaed4/Results/block_diagram.png)
 ]
 
 ## RTL code
