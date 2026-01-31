@@ -43,4 +43,5 @@ Target Platform: FPGA
 
 ## Simulation
 [.[Simulation
-](
+](https://github.com/Meganthiyav/MEMORY_CONTROLLER_USING_FPGA/blob/935810432f403bb4c49ebf66330f8ffd9f45f300/Results/Simulation.png0)
+[
