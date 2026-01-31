@@ -48,5 +48,5 @@ Target Platform: FPGA
 
 ## Implementation 
 [.[Implementation
-]()
+](https://github.com/Meganthiyav/MEMORY_CONTROLLER_USING_FPGA/blob/2a17cc4ccd0cc07c7db77eda73604e866b96fe5c/Results/memory_controller_8x8.mp4)
 ]
